@@ -2,7 +2,10 @@
 
 ###
 
-<h2 align="left">Me name Joes131205<br>From Indonesia 🇮🇩<br><br>And I'm not funny ( I like memes )</h2>
+<h2 align="left">Me name Joes131205<br>From Indonesia<br><br>And I'm not funny ( I like memes )</h2>
+
+###
+
 <h3 align="left">My stats here:</h3>
 
 ###
@@ -62,7 +65,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://tenor.com/bDU3q2cxKu3.gif"  />
+  <img height="200" src="https://i.kym-cdn.com/entries/icons/facebook/000/047/264/josh_hutcherson_whistle.jpg"  />
 </div>
 
 ###
