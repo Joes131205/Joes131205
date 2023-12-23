@@ -2,11 +2,8 @@
 
 ###
 
+<h2 align="left">Me name Joes131205<br>From Indonesia 🇮🇩<br><br>And I'm not funny ( I like memes )</h2>
 <h3 align="left">My stats here:</h3>
-
-###
-
-<h2 align="left">Me name Joes131205<br>From Indonesia<br><br>And I'm not funny ( I like memes )</h2>
 
 ###
 
