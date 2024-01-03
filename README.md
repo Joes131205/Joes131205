@@ -6,7 +6,7 @@
 
 ###
 
-Me is attempting #100DaysOfCode so uhh... good luck me (I forgot to log)
+Me is attempting #100DaysOfCode so uhh... good luck me (I forgot to log) [Started at 1 December 2023]
 
 ###
 
