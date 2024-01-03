@@ -6,6 +6,10 @@
 
 ###
 
+Me is attempting #100DaysOfCode so uhh... good luck me (I forgot to log)
+
+###
+
 <h3 align="left">My stats here:</h3>
 
 ###
