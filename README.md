@@ -14,10 +14,6 @@
 
 ###
 
-<h3 align="left">My commits:</h3>
-
-###
-
 <img src="https://raw.githubusercontent.com/Joes131205/Joes131205/output/snake.svg" alt="Snake animation" />
 
 ###
