@@ -6,13 +6,7 @@
         justify-content: center;
     "
 >
-    <div align="center">
-        <img
-            src="https://github.com/Joes131205/Joes131205/assets/86814315/a7e6e4dd-0b39-4a90-a28d-fce6a5e96cc9"
-            width="1300px"
-            style="transform: rotate(180deg)"
-        />
-    </div>
+    <img src="https://github.com/Joes131205/Joes131205/assets/86814315/bb971c11-b09e-4f8c-a956-30639237f0cf" alt="Wave"/>
     <div align="center">
         <img
             src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=1000&pause=1000&color=00F726&background=001F0400&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=435&height=200&lines=Oh+hey+sup!+%3AD;-Joes131205-;-Joe+Steven-;-Beginner+Web+Developer-"
@@ -90,8 +84,7 @@
     />
     <div align="center">
         <img
-            src="https://github.com/Joes131205/Joes131205/assets/86814315/a7e6e4dd-0b39-4a90-a28d-fce6a5e96cc9"
-            width="1300px"
+            src="https://github.com/Joes131205/Joes131205/assets/86814315/1427a040-c357-4671-a2d0-943b3d8f8f95"
         />
     </div>
 </div>
