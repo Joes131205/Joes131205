@@ -26,7 +26,7 @@
     </ul>
     <div align="center" style="display: flex; justify-content: center">
         <img
-            src="https://github-readme-stats.vercel.app/api?username=Joes131205&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true&hide_rank=true"
+            src="https://github-readme-stats.vercel.app/api?username=Joes131205&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true"
             alt="Stats Graph"
             height="150"
         />
