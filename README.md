@@ -18,34 +18,13 @@
             alt="Typing SVG"
         />
     </div>
-    <h1>About me</h1>
+    <h2>About me</h2>
     <ul>
         <li>I'm a gamer</li>
         <li>I'm a gamer</li>
         <li>I'm a gamer</li>
     </ul>
-    <div align="center" style="display: flex; justify-content: center">
-        <img
-            src="https://github-readme-stats.vercel.app/api?username=Joes131205&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true"
-            alt="Stats Graph"
-            height="150"
-        />
-        <img
-            src="https://github-readme-streak-stats.herokuapp.com/?user=Joes131205&theme=chartreuse-dark&hide_border=true"
-            alt="Streak Graph"
-            height="150"
-        />
-        <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joes131205&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"
-            alt="Most Used Language"
-            height="150"
-        />
-    </div>
-    <img
-        src="https://raw.githubusercontent.com/Joes131205/Joes131205/output/snake.svg"
-        alt="Snake animation"
-    />
-    <h4 align="left">I'm learning / using this:</h4>
+        <h4 align="left">I'm learning / using this:</h4>
     <div align="center">
         <img
             src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
@@ -88,6 +67,27 @@
             alt="Firebase"
         />
     </div>
+    <div align="center" style="display: flex; justify-content: center">
+        <img
+            src="https://github-readme-stats.vercel.app/api?username=Joes131205&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true"
+            alt="Stats Graph"
+            height="150"
+        />
+        <img
+            src="https://github-readme-streak-stats.herokuapp.com/?user=Joes131205&theme=chartreuse-dark&hide_border=true"
+            alt="Streak Graph"
+            height="150"
+        />
+        <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joes131205&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"
+            alt="Most Used Language"
+            height="150"
+        />
+    </div>
+    <img
+        src="https://raw.githubusercontent.com/Joes131205/Joes131205/output/snake.svg"
+        alt="Snake animation"
+    />
     <img
         src="https://randommeme-five.vercel.app/"
         style="height: 400px"
