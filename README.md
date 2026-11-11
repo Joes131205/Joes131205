@@ -1,102 +1,61 @@
-<div
-    style="
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-    "
->
-    <div align="center">
-        <img
-            src="/waves2.gif"
-            alt="Wave"
-        />
-    </div>
-    <div align="center">
-        <img
-            src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=1000&pause=1000&color=00F726&background=001F0400&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=435&height=200&lines=Oh+hey+sup!+%3AD;-Joes131205-;-Beginner+Web+Developer-; ig lol;"
-            alt="Typing SVG"
-        />
-    </div>
-    <h2>About me</h2>
-    <ul>
-        <li>I'm a gamer</li>
-        <li>I'm a gamer</li>
-        <li>I'm a gamer</li>
-    </ul>
-        <h4 align="left">I'm learning / using this:</h4>
-    <div align="center">
-        <img
-            src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-            alt="CSS3"
-        />
-        <img
-            src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-            alt="HTML5"
-        />
-        <img
-            src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
-            alt="JavaScript"
-        />
-        <img
-            src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"
-            alt="Firebase"
-        />
-        <img
-            src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"
-            alt="Netlify"
-        />
-        <img
-            src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
-            alt="React"
-        />
-        <img
-            src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
-            alt="React Router"
-        />
-        <img
-            src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"
-            alt="Vite"
-        />
-        <img
-            src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
-            alt="TailwindCSS"
-        />
-        <img
-            src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"
-            alt="Firebase"
-        />
-    </div>
-    <div align="center" style="display: flex; justify-content: center">
-        <img
-            src="https://github-readme-stats.vercel.app/api?username=Joes131205&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true"
-            alt="Stats Graph"
-            height="150"
-        />
-        <img
-            src="https://github-readme-streak-stats.herokuapp.com/?user=Joes131205&theme=chartreuse-dark&hide_border=true"
-            alt="Streak Graph"
-            height="150"
-        />
-        <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joes131205&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"
-            alt="Most Used Language"
-            height="150"
-        />
-    </div>
-    <img
-        src="https://raw.githubusercontent.com/Joes131205/Joes131205/output/snake.svg"
-        alt="Snake animation"
-    />
-    <img
-        src="https://randommeme-five.vercel.app/"
-        style="height: 400px"
-        align="center"
-    />
-    <div align="center">
-        <img
-            src="/waves.gif"
-            alt="Wave"
-        />
-    </div>
+<br clear="both">
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=00ff7f"  />
 </div>
+
+###
+
+<h2 data-importer="text" align="left">Hi 👋! My name is Joes131205 and I'm a Full Stack Developer!</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Joes131205/Joes131205/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Joes131205/Joes131205/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Joes131205/Joes131205/activity-graph-output/activity-graph.svg?hide_border=true&hide_title=true&theme=chartreuse-dark&color=#ffffff" height="150" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Joes131205/Joes131205/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Joes131205.Joes131205&left_color=darkgreen"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=00ff7f"  />
+</div>
+
+###
